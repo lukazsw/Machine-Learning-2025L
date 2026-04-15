@@ -6,3 +6,5 @@
 2. [lw430257_homework02.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework02.ipynb)
 3. [lw430257_homework03.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework03.ipynb)
 4. [lw430257_homework04.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework04.ipynb)
+5. BRAK
+6. [lw430257_homework06.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework06.ipynb)
