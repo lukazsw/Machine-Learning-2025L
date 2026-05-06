@@ -10,3 +10,4 @@
 6. [lw430257_homework06.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework06.ipynb)
 7. BRAK
 8. [lw430257_homework08.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework08.ipynb), [l1_optimization.gif](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/l1_optimization.gif), [linf_optimization.gif](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/linf_optimization.gif)
+9. [lw430257_homework09.ipynb](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/lw430257_homework09.ipynb), [dreamed_digits_task_1.gif](https://github.com/lukazsw/Machine-Learning-2025L/blob/main/dreamed_digits_task_1.gif)
